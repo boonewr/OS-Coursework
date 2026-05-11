@@ -1,0 +1,15 @@
+global.c
+Total dishes: 309
+Minimum chef: Ginny, 30
+Maximum chef: Tad, Merry, Charles, Merlin, Lyn, Marian, Summer, Sammy, and Lura - all 31
+
+ordered.c
+Total dishes: 676
+Minimum chef: Lyn, 28
+Maximum chef: Lura, 176
+
+takeAll.c
+Total dishes: 1079
+Minimum chef: Tad, 20
+Maximum chef: Merlin, 284
+

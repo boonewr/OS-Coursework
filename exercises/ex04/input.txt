@@ -1,0 +1,4 @@
+This is our input file.  We're going to use the same input and output
+redirection techniques that the shell uses to trick cat into reading
+from this file and to get it to write to output.txt, rather than
+writing to stdout.

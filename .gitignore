@@ -1,0 +1,42 @@
+# OS/editor metadata
+.DS_Store
+.vscode/
+
+# Compiled C/C++/CUDA artifacts
+*.o
+*.out
+*.so
+*.dylib
+*.exe
+a.out
+core
+
+# Java/Python build artifacts
+*.class
+*.pyc
+__pycache__/
+build/
+dist/
+
+# Common binaries produced by these coursework files
+assignments/**/client
+assignments/**/driver[0-9]
+assignments/**/edit
+assignments/**/exclude
+assignments/**/global
+assignments/**/ordered
+assignments/**/parkingServer
+assignments/**/reset
+assignments/**/server
+assignments/**/stash
+assignments/**/takeAll
+assignments/**/top
+assignments/**/triangles
+assignments/**/triangles-sem
+exercises/**/HTTPclient
+exercises/**/array
+exercises/**/floppyDir
+exercises/**/memTest
+exercises/**/motd_client
+exercises/**/motd_server
+exercises/**/sort

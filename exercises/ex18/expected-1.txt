@@ -1,0 +1,9 @@
+README.TXT          179
+WORK                DIR
+    READFILE.C         1372
+    WOLF.TXT            432
+PLAY                DIR
+    HELLO.S             844
+    CAMEL.TXT           271
+HELLO.C             239
+COW.TXT             412

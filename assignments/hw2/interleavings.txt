@@ -1,0 +1,9 @@
+(a) ABCDE 
+
+(b) BACDE 
+  
+(c) BECDA 
+
+(d) EDCBA
+
+(e) BDECA  

@@ -1,0 +1,6 @@
+             Greensboro   36.0726  -79.7920 (30.64 miles)
+          Winston-Salem   36.0999  -80.2442 (42.14 miles)
+                 Durham   35.9940  -78.8986 (54.68 miles)
+           Fayetteville   35.0527  -78.8784 (63.93 miles)
+                Raleigh   35.7796  -78.6382 (64.06 miles)
+              Charlotte   35.2271  -80.8431 (66.78 miles)

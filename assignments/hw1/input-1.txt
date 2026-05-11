@@ -1,0 +1,9 @@
+This is a sample
+input file for the
+exclude program.
+You can give a
+command-line
+argument to tell it
+what line to omit
+when copying to the
+output.

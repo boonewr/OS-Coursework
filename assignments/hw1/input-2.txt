@@ -1,0 +1,23 @@
+01: This is a test
+02: file containing
+03: a few lines
+04: of text.  You
+05: can use it
+06: with the exclude
+07: program to get
+08: it to exclude
+09: particular lines
+10: you select.
+11:
+12: The line numbers
+13: over on the
+14: left are just
+15: for convenience.
+16: As far as the
+17: program is concerned,
+18: this is just part
+19: of the line, but it
+20: makes it easier to
+21: check to make sure
+22: the right line
+23: gets excluded.
